@@ -1,1 +1,1 @@
-Salut
+Salut from terminal SSH
